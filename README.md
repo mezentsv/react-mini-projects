@@ -1,4 +1,4 @@
-# John's Smilga React Projects Tutorial
+# John Smilga's React Projects Tutorial
 
 ## Corresponding Tutorial Topics
 
